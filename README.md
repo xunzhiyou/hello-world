@@ -1,2 +1,5 @@
 # hello-world
-Just a repository to learn github
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (That's what I'm made of!).
